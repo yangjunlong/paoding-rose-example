@@ -7,4 +7,4 @@ cd paoding-rose-example
 mvn jetty:run
 ```
 
-用浏览器访问：http://10.235.226.61:8088/ 页面输出Hello World!
+用浏览器访问：http://127.0.0.1:8088/ 页面输出Hello World!
