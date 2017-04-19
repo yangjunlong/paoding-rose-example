@@ -1,0 +1,17 @@
+#*
+ * 全站布局文件
+ * 
+ * @author  Yang,junlong at 2017-04-17 14:39:00 build.
+ * @version $Id$
+ *#
+
+<!DOCTYPE html>
+#html()
+	#head()
+		<meta charset="UTF-8">
+		<title>#block("title")无标题#end</title>
+	#end
+	#body()
+		<h1>hello velocity</h1>
+	#end
+#end
